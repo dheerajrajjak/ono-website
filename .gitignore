@@ -70,3 +70,4 @@ node_modules/
 
 # local update bundle
 .ono-update.zip
+.ono-update-2.zip
